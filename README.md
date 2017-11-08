@@ -32,7 +32,7 @@ This integration can be enabled just with a little of configuration in the EAP C
 
  1. Clone (or [download](https://github.com/masales/jboss-middleware-demos/archive/master.zip)) this repository into your workstation
  ```
- git clone https://github.com/masales/jboss-middleware-demos.git
+ git clone https://github.com/masales/jboss-eap-jdg-httpsession-offload-demo.git
 
  cd eap-jdg-httpsession-offload-demo/
  ```
