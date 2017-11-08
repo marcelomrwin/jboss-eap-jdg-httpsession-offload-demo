@@ -30,9 +30,9 @@ This integration can be enabled just with a little of configuration in the EAP C
 
 ## Demo setup
 
- 1. Clone (or [download](https://github.com/rafaeltuelho/jboss-middleware-demos/archive/master.zip)) this repository into your workstation
+ 1. Clone (or [download](https://github.com/masales/jboss-middleware-demos/archive/master.zip)) this repository into your workstation
  ```
- git clone https://github.com/rafaeltuelho/jboss-middleware-demos.git
+ git clone https://github.com/masales/jboss-middleware-demos.git
 
  cd eap-jdg-httpsession-offload-demo/
  ```
