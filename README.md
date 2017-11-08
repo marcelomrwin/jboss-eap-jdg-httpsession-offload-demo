@@ -34,7 +34,7 @@ This integration can be enabled just with a little of configuration in the EAP C
  ```
  git clone https://github.com/masales/jboss-eap-jdg-httpsession-offload-demo.git
 
- cd eap-jdg-httpsession-offload-demo/
+ cd jboss-eap-jdg-httpsession-offload-demo/
  ```
  2. Download the JBoss EAP and JDG binaries into `eap-jdg-httpsession-offload-demo/installs` subdirectory
   * `jboss-eap-6.4.0-installer.jar`
